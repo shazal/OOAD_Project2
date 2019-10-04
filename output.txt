@@ -1,0 +1,19 @@
+Hi this is ZooAnnouncer ... ZooKeeper about to wake animals up!
+Chole woke up!
+fe woke up!
+Hi this is ZooAnnouncer ... ZooKeeper about to rollcall animals!
+Taking animals rollcall!
+Chole is now awake
+fe is now awake
+Hi this is ZooAnnouncer ... ZooKeeper about to feed animals!
+feeding animals!
+Chole of type Feline is eating fish!
+running Feline class eat
+Hi this is ZooAnnouncer ... ZooKeeper about to make animals excercise!
+exercising the animals!
+Chole of type Feline is roaming arround
+fe of type Feline is roaming
+ZooAnnouncer relieved from his duties
+Shutting down the zoo!
+Chole was set free!
+fe was set free!
